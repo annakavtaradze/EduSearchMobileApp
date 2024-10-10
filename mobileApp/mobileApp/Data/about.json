@@ -1,0 +1,34 @@
+{
+  "productDescription": "Situated in Tbilisi, Georgia, EduSearch was developed by Taso Getashvili, Anna Kavtarazde, Teona Kavtaradze, and Tamar Vibliani, and Tamar Kakiashvili as a project for Technovation Girls 2022.",
+  "productIcon": "Icon.png",
+  "productVersion": "1.0",
+  "bannerImage": "Mask.png",
+
+  "employeeDetails": [
+    {
+      "employeeName": "Anna Kavtaradze",
+      "image": "ProfileImage15.png",
+      "designation": "App Developer"
+    },
+    {
+      "employeeName": "Teona Kavtaradze",
+      "image": "ProfileImage10.png",
+      "designation": "Manager/Financist"
+    },
+    {
+      "employeeName": "Tamar Vibliani",
+      "image": "ProfileImage11.png",
+      "designation": "Marketing"
+    },
+    {
+      "employeeName": "Tamar Kakiashvili",
+      "image": "ProfileImage12.png",
+      "designation": "Redactor"
+    },
+    {
+      "employeeName": "Taso Getashvili",
+      "image": "ProfileImage14.png",
+      "designation": "Mentor"
+    }
+  ]
+}
